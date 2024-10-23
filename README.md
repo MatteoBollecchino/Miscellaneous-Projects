@@ -1,7 +1,7 @@
-## Miscellaneous-Projects
+# Miscellaneous-Projects
 Repository per Progetti Personali di Vario Tipo
 
-# Progetto Ordinamento Lista Interessi
+## Progetto Ordinamento Lista Interessi
 Il programma si occupa di ordinare una lista di interessi che può essere divisa in categorie (es. Serie TV, Film, Fumetti, ecc.).
 L'ordine delle categorie permane durante l'operazione di ordinamento.
 Condizioni per un corretto utilizzo:
