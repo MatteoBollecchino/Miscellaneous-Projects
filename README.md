@@ -9,3 +9,4 @@ Condizioni per un corretto utilizzo:
 2) La prima riga di ogni categoria deve essere il titolo della stessa
 3) Non ci devono essere linee vuote tra gli elementi delle categorie
 4) Tutti gli elementi delle categorie devono iniziare per lettera maiuscola o minuscola
+5) Il file di input deve essere nella stessa directory del programma e quando richiesto deve essere inserito il nome del file seguito dall'estensione ".txt"
